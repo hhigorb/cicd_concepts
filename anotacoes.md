@@ -64,21 +64,3 @@ Essa prática ajuda a garantir que novas funcionalidades e correções de bugs c
 ---
 
 ![O que é CI/CD](images/image11.png 'O que é CI/CD')
-
----
-
-# O que é GitLab
-
-O GitLab é um repositório Git (semelhante ao Github, Bitbucket, etc) que fornece repositórios abertos e privados e outros recursos. É uma plataforma completa de DevOps que permite que os profissionais executem todas as tarefas em um projeto, desde o planejamento do projeto, passando pelo gerenciamento do código-fonte até o monitoramento e a segurança.
-
----
-
-![O que é CI/CD](images/image12.png 'O que é CI/CD')
-
----
-
-![O que é CI/CD](images/image13.png 'O que é CI/CD')
-
----
-
-![O que é CI/CD](images/image14.png 'O que é CI/CD')
